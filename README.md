@@ -21,6 +21,13 @@ Storytelling criativo com figma e visualização de dados em Power BI.
             src="https://custom-icon-badges.demolab.com/badge/-11--96412--5305-blue?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
+    <a href = "tel:+55 11 958131862" >
+    <img
+            alt="telefone" 
+            title="Me ligue!" 
+            src="https://custom-icon-badges.demolab.com/badge/-11--95813--1862-blue?style=for-the-badge&logo=phone&logoColor=white"
+    />
+    </a>
     <a href="mailto:moraesjessica234@gmail.com?subject=Vamos+conversar&body=Ol%C3%A1,+J%C3%A9ssica+vi+seu+perfil+no+GitHub+e+gostaria+de+conversar+sobre...">
         <img 
             alt="Me envie um email" 
@@ -78,7 +85,7 @@ Storytelling criativo com figma e visualização de dados em Power BI.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
-<img 
+<img
     align="left" 
     alt="Figma" 
     title="Figma"
