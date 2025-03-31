@@ -5,8 +5,7 @@
 🎥 **Sobre mim**: 
 Tenho 23 anos, sou noiva e amo passar meu tempo livre lendo ou assistindo filmes e séries. Minha motivação vem da vontade de superar desafios e explorar novas possibilidades!
 
-🗃️ **Minhas habilitades**: Manipulação de dados com ferramentas como SQL Server, Dbeaver, PostegreSql, e power query. Além de conhecimento avançado em ferramentas office. 
-Habilidade em html utilizando visual Studio Code. 
+🗃️ **Minhas habilitades**: Manipulação de dados com ferramentas como MS SQL Server, MySQL, PostegreSql, e power query. Além de conhecimento avançado em ferramentas office. 
 Storytelling criativo com figma e visualização de dados em Power BI. 
 
 💡**Por que Dados?**: A área de dados me encanta porque temos a possibilidade em transformar desafios em oportunidades. E não há nada mais gratificante do que aprender e evoluir continuamente. 
