@@ -11,7 +11,7 @@ Storytelling criativo com figma e visualização de dados em Power BI.
 
 💡**Por que Dados?**: A área de dados me encanta porque temos a possibilidade em transformar desafios em oportunidades. E não há nada mais gratificante do que aprender e evoluir continuamente. 
 
-**Caso queira me acompanhar no linkedIn acesse**: "[Jessica Moraes](https://www.linkedin.com/in/j%C3%A9ssica-moraes-8896a3199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)".
+**Caso queira me acompanhar no linkedIn acesse**: [Jessica Moraes](https://www.linkedin.com/in/jessica-moraesxx).
 
 <p align="left">
     <a href="https://wa.me/5511964125305?text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub.">
